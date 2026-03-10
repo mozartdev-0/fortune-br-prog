@@ -1,6 +1,6 @@
-# 🛡️ NpmProtect
+# 🛡️ FORBPRO
 
-> **Security first.** Monitoramento e proteção em tempo real para dependências maliciosas em pacotes NPM e PyPI.
+
 
 [![Vynex Team](https://img.shields.io/badge/Team-Vynex-blueviolet?style=for-the-badge)](https://github.com/mozartdev-0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
