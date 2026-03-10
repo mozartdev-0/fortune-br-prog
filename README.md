@@ -29,10 +29,10 @@ O **NpmProtect** foi desenvolvido para mitigar ataques de *Supply Chain* (Cadeia
 
 ```bash
 # Clone o repositório
-git clone git@github.com:mozartdev-0/NpmProtect.git
+gh repo clone mozartdev-0/fortune-br-prog
 
 # Entre na pasta
-cd NpmProtect
+cd fortune-br-prog
 
 # Instale as dependências
 npm install
